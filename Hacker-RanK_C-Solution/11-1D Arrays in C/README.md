@@ -19,7 +19,7 @@ The next line contains  space-separated integers.
 ### Output Format
 Print the sum of the integers in the array.
 
-##Sample Input 0
+### Sample Input 0
 ```
 6
 16 13 7 2 1 12 
